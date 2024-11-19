@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CheckBoks 1</string>
+    <string name="text_input">Поле ввода</string>
+    <string name="text_output">Поле вывода</string>
+    <string name="button_save">Сохранить данные</string>
+    <string name="button_delete">Удалить данные</string>
+</resources>
